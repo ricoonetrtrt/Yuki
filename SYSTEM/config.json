@@ -23,14 +23,14 @@
   "EMAIL": "",
   "PASSWORD": "",
   "2FA": "",
-  "nickNameBot": "Yuki Bot",
-  "prefix": "/",
-  "botadmin": "facebook.com/proarcoder",
+  "nickNameBot": "Siesta Bot",
+  "prefix": ".",
+  "botadmin": "100075085058816",
   "canApprove": "100049189713406",
   "owners": [
-    "100079978668373",
-    "100049189713406",
-    "100000563665041"
+    "100075085058816",
+    "100075085058816",
+    "100075085058816"
   ],
   "cookies": "cookies.txt",
   "database": {
